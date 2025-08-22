@@ -91,7 +91,7 @@ Python (PyTorch, TensorFlow, PyTorch Lightning, FastAPI, Gradio)
 Frontend: HTML, CSS, JavaScript (for dashboards & reports)
 
 [Gradio UI Screenshot]
-(https://github.com/Hammad1952/Diabetic-Retinopathy-Detection/blob/master/screencapture-127-0-0-1-7860-2025-08-17-15_31_53.png)
+(Diabetic-Retinopathy-Detection/blob/master/screencapture-127-0-0-1-7860-2025-08-17-15_31_53.png)
 
 **👨‍💻 Author**
 
