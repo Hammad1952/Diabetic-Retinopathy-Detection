@@ -62,7 +62,7 @@ os.environ["MKL_NUM_THREADS"] = "1"
 # Gemini initialization with detailed error handling
 try:
     # Verify API key format
-    API_KEY = "AIzaSyCOwaHcPHlDTepgJEA0DInoctQhn-hzk-A"
+    API_KEY = ""
     if not API_KEY.startswith("AIza") or len(API_KEY) < 30:
         raise ValueError("Invalid API key format")
     
